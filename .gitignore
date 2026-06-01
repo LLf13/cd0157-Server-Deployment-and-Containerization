@@ -13,10 +13,11 @@ _mailinglist
 .tox/
 .cache/
 .pytest_cache/
-.idea/
+.idea
 docs/_build/
 __pycache__
 .env_file
+.venv/
 
 # Coverage reports
 htmlcov/
